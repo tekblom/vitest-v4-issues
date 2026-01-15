@@ -70,7 +70,10 @@ export default function testMethod() {
 }
 ```
 
-##
+## Image of uncovered files
+
+See the yellow marks indicating that the lines are only partially covered even though they are executed.
+![Coverage Report](src/uncovered-files.png)
 
 ## Related Issue
 
